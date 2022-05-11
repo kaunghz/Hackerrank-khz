@@ -1,0 +1,25 @@
+{
+    "cpp snippets":
+    {
+        "prefix" : "cppstart",
+		"body" : [
+			"#include <iostream>",
+			"#include <string>",
+			"#include <vector>",
+			"#include <cctype>",
+			"#include <algorithm>",
+			"using namespace std;",
+			"void solve();",
+			"int main() {",
+			"\tsolve();",
+			"\treturn 0;",
+			"}\n",
+
+			"// problem solution",
+			"void solve() {\n\t",
+			
+			"}",
+		],
+        "description" : "c++ basic"
+    }
+}
